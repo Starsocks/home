@@ -25,13 +25,13 @@
     "link": "https://pdf.starshare.eu.org/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
     "icon": "LaptopCode",
     "name": "宝塔面板",
     "link": "https://me.starshare.eu.org:7800/"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.imsyy.top/"
   }
 ]
